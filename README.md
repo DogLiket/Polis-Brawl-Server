@@ -7,26 +7,7 @@ Open source Brawl Stars server emulator for version 18 of the game!
 
 
 ## What's working ?
-- Battles
-  - Trophies in offline battles
-- Home
-  - Unlimited resources
-  - Brawlers from boxes  
-  - All skins unlocked
-  - Star Powers
-  - Random exp and boxes at start
-- Shop
-  - Special offers
-  - Boxes
-  - Gold and other resources 
-- Club
-  - Join
-  - Leave
-  - Chat
-  - Update settings
-  - Bot commands
-
-...and much more!
+Well nothing for now
 
 
 ## Prerequisites
@@ -72,25 +53,19 @@ If you have Android 10, use VMOS Pro
 
 ## Authors
 
-👤 **PhoenixFire6879** (main developer)
-
-* Github: [@PhoenixFire6879](https://github.com/PhoenixFire6879)
-* Discord: PhoenixFire#6879
-
-👤 **Crazor**
-
-* Github: [@CrazorCLB](https://github.com/CrazorCLB)
-* Discord: Crazor#7395
-
-Special thanks to:
-- [VitalikObject](https://github.com/VitalikObject)
-- [Rostik](https://github.com/RostikDevv) and [Vorono4ka](https://github.com/Vorono4ka) for their [scdocs](https://github.com/RostikDevv/scdocs)
+👤 **Kitten-EASY**
 
 
-## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/PhoenixFire6879/Classic-Brawl/issues).
+👤 **Nivatus**
 
-## Show your support
+👤 **romashka**
+
+
+
+
+
+
+
 
 Give a ⭐️ if this project helped you!
