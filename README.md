@@ -3,7 +3,7 @@
 Open source Brawl Stars server emulator for version 18 of the game!
 
 
-![ScreenShot](https://media.discordapp.net/attachments/711412740199022603/810888977942577222/unknown.png) 
+![ScreenShot](https://cdn.discordapp.com/attachments/811919827870023713/811937866053189632/Screenshot_20210218-202224.png) 
 
 
 ## What's working ?
@@ -14,6 +14,7 @@ Open source Brawl Stars server emulator for version 18 of the game!
   - Brawlers from boxes  
   - All skins unlocked
   - Star Powers
+  - Random exp and boxes at start
 - Shop
   - Special offers
   - Boxes
