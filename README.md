@@ -1,6 +1,6 @@
 <h1 align="center">Hey! Welcome to Polis-Brawl 👋</h1>
 
-Open source Brawl Stars server emulator for version 18 of the game!
+Polis Brawl is open source Brawl Stars server emulator for version 18 of the game!
 
 
 ![ScreenShot](https://cdn.discordapp.com/attachments/811919827870023713/811937866053189632/Screenshot_20210218-202224.png) 
@@ -48,6 +48,8 @@ If you have Android 10, use VMOS Pro
 
 #### Need help? shut up
 
+## how to huck bs
+To huck bs you need to пукнуть 5 times
 
 
 
