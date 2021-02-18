@@ -46,7 +46,7 @@ If you have Android 10, use VMOS Pro
 
 
 
-#### Need help? shut up
+#### Need help? [(Join our coding server!](https://discord.gg/RRKSZZJRpM) 
 
 ## how to huck bs
 To huck bs you need to пукнуть 5 times
@@ -56,8 +56,6 @@ To huck bs you need to пукнуть 5 times
 ## Authors
 
 👤 **Kitten-EASY**
-
-
 
 👤 **Nivatus**
 
@@ -70,4 +68,4 @@ To huck bs you need to пукнуть 5 times
 
 
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ from all accs if this project helped you!
