@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Polis-Brawl 👋</h1>
+<h1 align="center">Hey! Welcome to Polis-Brawl 👋</h1>
 
 Open source Brawl Stars server emulator for version 18 of the game!
 
@@ -7,7 +7,7 @@ Open source Brawl Stars server emulator for version 18 of the game!
 
 
 ## What's working ?
-Well nothing for now
+Well, nothing for now
 
 
 ## Prerequisites
@@ -46,7 +46,7 @@ If you have Android 10, use VMOS Pro
 
 
 
-#### Need help? Join [our Discord support server](https://discord.gg/2t4QXyuSKW)
+#### Need help? shut up
 
 
 
