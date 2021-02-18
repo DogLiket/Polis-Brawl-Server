@@ -9,7 +9,7 @@
     "Trophies": 15000,
     "ShowPacketsInLog": true,
     "ThemeID": 7,
-    "SupportedContentCreator": "nivatus, kitten easy",
+    "SupportedContentCreator": "nivatus",
     "Maintenance": false,
     "Patch": false,
     "PatchUrl": "http://192.168.0.103:8080/",
@@ -51,6 +51,7 @@
             "penny": 0, 
             "frank": 0, 
             "gene": 0, 
+             
             "leon": 0, 
             "rosa": 0, 
             "carl": 0, 
