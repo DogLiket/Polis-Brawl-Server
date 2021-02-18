@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to Classic-Brawl 👋</h1>
+<h1 align="center">Welcome to Polis-Brawl 👋</h1>
 
-Open source Brawl Stars server emulator for version 19 of the game!
+Open source Brawl Stars server emulator for version 18 of the game!
 
 
 ![ScreenShot](https://media.discordapp.net/attachments/711412740199022603/810888977942577222/unknown.png) 
@@ -13,7 +13,7 @@ Open source Brawl Stars server emulator for version 19 of the game!
   - Unlimited resources
   - Brawlers from boxes  
   - All skins unlocked
-  - Gadgets and Star Powers
+  - Star Powers
 - Shop
   - Special offers
   - Boxes
@@ -57,7 +57,7 @@ Open source Brawl Stars server emulator for version 19 of the game!
 
 ## Configure client
 To connect to your server, you need a custom client. Here the only solution is to use a [pre-made client](https://mega.nz/folder/CX5XAK4T#G-nEfnR8y82Gk3ZuzOwtyQ/file/OHhWEZwL). Just replace the IP in the frida-gadget config with yours (```/lib/armeabi-v7a/libgg.config.so```) ```{"interaction":{"interaction":{"type":"script","path":"libscript.so","on_change":"reload","parameters":{"redirectHost":"YOUR_IP","relocate":true}}}```
-
+If you have Android 10, use VMOS Pro
 
 
 
@@ -71,7 +71,7 @@ To connect to your server, you need a custom client. Here the only solution is t
 
 ## Authors
 
-👤 **PhoenixFire** (main developer)
+👤 **PhoenixFire6879** (main developer)
 
 * Github: [@PhoenixFire6879](https://github.com/PhoenixFire6879)
 * Discord: PhoenixFire#6879
