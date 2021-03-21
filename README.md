@@ -20,19 +20,19 @@ Open menu, try brawlers
 ## Run Server
 - On Windows:
     - Download Python 3.7 or newer version from official page.
-    - Download the server and extract it.
+    - Download the zip and extract it.
     - In a terminal type: ```pip install tinydb```
     - Execute "main.py" file
 - On Linux:
     - Open Terminal and install Python by executing following command:
     ```sudo apt-get update && sudo apt-get install python3 python3-pip```
-    - Download the server and extract it.
+    - Download the zip and extract it.
     - In a terminal type: ```pip install tinydb```
     - Execute "main.py" file
 - On Android:
     - Download and install PyDroid app from Google Play.
     - Open PyDroid and wait until Python installs.
-    - Download the server and extract it.
+    - Download the zip and extract it.
     - In PyDroid go in the "pip" section, type ```tinydb```, then click install.
     - In PyDroid open and execute "main.py" file
 
@@ -46,7 +46,7 @@ If you have Android 10, use VMOS Pro
 
 
 
-#### Need help? [(Join our coding server!](https://discord.gg/RRKSZZJRpM) 
+#### Need help? [(Join our coding server! (Soon)](https://discord.gg/) 
 
 ## Authors
 
@@ -63,4 +63,4 @@ If you have Android 10, use VMOS Pro
 
 
 
-Give a ⭐️ from all accs if this project helped you!
+Give a ⭐️ if this project helped you!
