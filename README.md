@@ -7,7 +7,7 @@ Polis Brawl is open source Brawl Stars server emulator for version 18 of the gam
 
 
 ## What's working ?
-Well, nothing for now
+Open menu, try brawlers
 
 
 ## Prerequisites
@@ -47,11 +47,6 @@ If you have Android 10, use VMOS Pro
 
 
 #### Need help? [(Join our coding server!](https://discord.gg/RRKSZZJRpM) 
-
-## how to huck bs
-To huck bs you need to пукнуть 5 times
-
-
 
 ## Authors
 
