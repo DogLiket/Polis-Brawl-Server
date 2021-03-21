@@ -47,15 +47,17 @@ If you have Android 10, use VMOS Pro
 
 
 
-#### Need help? [(Join our coding server! (Soon)](https://discord.gg/) 
+#### Need help? [(Join our Discord server!](https://discord.gg/DmHRzDn4q4) 
 
 ## Authors
 
-👤 **Kitten-EASY**
+👤 **Kitten-EASY** (main developer)
 
 👤 **Nivatus**
 
-👤 **romashka**
+👤 **romashka** 
+
+👤 **PhoenixFire** (helped)
 
 
 
