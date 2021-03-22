@@ -266,5 +266,5 @@ class OwnHomeDataMessage(Writer):
         self.writeVint(0)
         self.writeVint(0)
         self.writeVint(0)
-        self.writeVint(2)
+        self.writeVint(2) # tutorial state (0 - tutorial, 1 - play one game, 2 - menu)
         self.writeVint(1585502369)
