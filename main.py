@@ -1,3 +1,4 @@
+print('Welcome to Polis Brawl')
 import logging
 import socket
 import time
@@ -37,11 +38,11 @@ class Server:
 
 
 		self.server.bind((self.ip, self.port))
-		_(f'Server started! Ip: {self.ip}, Port: {self.port}')
+		_(f'Polis Brawl started on ip {self.ip} and port {self.port}.')
 		while True:
 			self.server.listen()
 			client, address = self.server.accept()
-			_(f'New connection! Ip: {address[0]}')
+			_(f'New connection from ip {address[0]}')
 			ClientThread(client, address).start()
 			Server.ThreadCount += 1
 
@@ -76,7 +77,7 @@ class ClientThread(Thread):
 					data = self.recvall(length)
 
 					if packet_id in packets:
-						_(f'Received packet! Id: {packet_id}')
+						_(f'Received packet with ID {packet_id}.')
 						message = packets[packet_id](self.client, self.player, data)
 						message.decode()
 						message.process()
@@ -87,7 +88,7 @@ class ClientThread(Thread):
 							self.player.ClientDict = Server.Clients
 
 					else:
-						_(f'Packet not handled! Id: {packet_id}')
+						_(f'Packet {packet_id} not handled!')
 
 				if time.time() - last_packet > 10:
 					print(f"[INFO] Ip: {self.address[0]} disconnected!")
